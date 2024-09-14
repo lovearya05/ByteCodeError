@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ByteCodeError/static/css/main.f855e6bc.css",
-    "main.js": "/ByteCodeError/static/js/main.6a24d442.js",
+    "main.js": "/ByteCodeError/static/js/main.867101b7.js",
     "static/js/453.713db934.chunk.js": "/ByteCodeError/static/js/453.713db934.chunk.js",
     "index.html": "/ByteCodeError/index.html",
     "main.f855e6bc.css.map": "/ByteCodeError/static/css/main.f855e6bc.css.map",
-    "main.6a24d442.js.map": "/ByteCodeError/static/js/main.6a24d442.js.map",
+    "main.867101b7.js.map": "/ByteCodeError/static/js/main.867101b7.js.map",
     "453.713db934.chunk.js.map": "/ByteCodeError/static/js/453.713db934.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6a24d442.js"
+    "static/js/main.867101b7.js"
   ]
 }
